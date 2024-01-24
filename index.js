@@ -54,4 +54,4 @@ async function updateServerInfo() {
   }
 }
 // Botu çalıştırma
-client.login('MTE5ODY3NjQ1Nzc2MTgwMDIwMg.G4s-vu.5mmjTpqdW5NwQbQPqSlIGVPML_Tz3pIWvJDGDM');
+client.login('MTE5ODY3sNjQ1Nzc2MTgwMDIwMg.G4s-vu.5mmjTpqdW5NwQbQPqSlIGVPML_Tz3pIWvJDGDM');
